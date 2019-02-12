@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eifaeh.yiwenx.com/sitemap.xml
